@@ -1,0 +1,47 @@
+Face ID,Event,Time,Duration,Cumulative Emotion,Productivity Score
+1,time-in,2024-09-05 18:09:11.715750
+1,time-out,2024-09-05 18:09:13.650231,0:00:01.934481,stressed
+1,productivity,stressed,0:00:01.934481,30.77%
+2,time-in,2024-09-05 18:09:19.649520
+2,time-out,2024-09-05 18:09:20.991011,0:00:01.341491,neutral
+2,productivity,neutral,0:00:01.341491,90.00%
+3,time-in,2024-09-05 18:10:02.236423
+3,time-out,2024-09-05 18:10:32.551874,0:00:30.315451,neutral
+3,productivity,neutral,0:00:30.315451,77.69%
+4,time-in,2024-09-05 18:11:03.124821
+4,time-out,2024-09-05 18:11:44.063265,0:00:40.938444,neutral
+4,productivity,neutral,0:00:40.938444,90.00%
+Face ID,Event,Time,Duration,Cumulative Emotion,Productivity Score
+1,time-in,2024-09-05 18:19:22.660096
+1,time-out,2024-09-05 18:19:26.699482,0:00:04.039386,neutral
+1,productivity,neutral,0:00:04.039386,62.50%
+Face ID,Event,Time,Duration,Cumulative Emotion,Productivity Score
+1,time-in,2024-09-05 23:02:20.970809
+1,time-out,2024-09-05 23:02:31.544394,0:00:10.573585,stressed
+1,productivity,stressed,0:00:10.573585,19.15%
+2,time-in,2024-09-05 23:02:33.498140
+2,time-out,2024-09-05 23:02:37.235124,0:00:03.736984,stressed
+2,productivity,stressed,0:00:03.736984,16.67%
+3,time-in,2024-09-05 23:02:40.858915
+3,time-out,2024-09-05 23:02:45.147246,0:00:04.288331,neutral
+3,productivity,neutral,0:00:04.288331,48.15%
+4,time-in,2024-09-05 23:03:10.799971
+Face ID,Event,Time,Duration,Cumulative Emotion,Productivity Score
+1,time-in,2024-09-07 09:50:02.152276
+1,time-out,2024-09-07 09:50:04.787488,0:00:02.635212,tensed
+1,productivity,tensed,0:00:02.635212,35.29%
+2,time-in,2024-09-07 09:50:05.040953
+2,time-out,2024-09-07 09:50:08.471922,0:00:03.430969,surprise
+2,productivity,surprise,0:00:03.430969,45.00%
+3,time-in,2024-09-07 09:50:08.971684
+3,time-out,2024-09-07 09:50:27.454290,0:00:18.482606,neutral
+3,productivity,neutral,0:00:18.482606,91.18%
+4,time-in,2024-09-07 09:50:28.677043
+Face ID,Event,Time,Duration,Cumulative Emotion,Productivity Score
+1,time-in,2024-09-07 09:52:50.184553
+1,time-out,2024-09-07 09:53:14.719614,0:00:24.535061,neutral
+1,productivity,neutral,0:00:24.535061,60.49%
+2,time-in,2024-09-07 09:53:16.018871
+3,time-in,2024-09-07 09:53:36.940318
+2,time-out,2024-09-07 09:53:37.058028,0:00:21.039157,neutral
+2,productivity,neutral,0:00:21.039157,90.29%
