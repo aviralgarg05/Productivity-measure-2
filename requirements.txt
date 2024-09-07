@@ -1,10 +1,6 @@
-opencv-python
-deepface
-tf_keras
 fastapi
 uvicorn
 numpy
+tf_keras
 cvzone
-cv2
-os
-datetime
+opencv-python
