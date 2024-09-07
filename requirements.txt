@@ -1,3 +1,11 @@
 opencv-python
 deepface
 tf_keras
+fastapi
+uvicorn
+numpy
+cvzone
+csv
+cv2
+os
+datetime
