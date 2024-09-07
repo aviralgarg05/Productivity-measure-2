@@ -1,8 +1,12 @@
 # Use an appropriate base image
 FROM python:3.10-slim
 
-# Install OpenGL dependencies
-RUN apt-get update && apt-get install -y libgl1-mesa-glx
+# Install OpenGL dependencies and build tools
+RUN apt-get update && \
+    apt-get install -y \
+    libgl1-mesa-glx \
+    libgl1-mesa-dri \
+    build-essential
 
 # Set up the working directory
 WORKDIR /app
@@ -13,6 +17,7 @@ COPY requirements.txt .
 # Install Python dependencies
 RUN python -m venv /opt/venv && \
     . /opt/venv/bin/activate && \
+    pip install --upgrade pip && \
     pip install -r requirements.txt
 
 # Copy the rest of the application code into the container
