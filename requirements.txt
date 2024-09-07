@@ -4,3 +4,6 @@ numpy
 tf_keras
 cvzone
 opencv-python
+deepface
+mediapipe
+
