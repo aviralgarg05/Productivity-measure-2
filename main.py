@@ -20,7 +20,7 @@ app.add_middleware(
 )
 
 # Initialize camera
-camera_index = 1  # Camera index for your system
+camera_index = 0  # Camera index for your system
 cap = cv2.VideoCapture(camera_index)
 if not cap.isOpened():
     raise Exception(f"Unable to open camera with index {camera_index}")
