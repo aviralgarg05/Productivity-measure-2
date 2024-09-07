@@ -5,7 +5,6 @@ fastapi
 uvicorn
 numpy
 cvzone
-csv
 cv2
 os
 datetime
